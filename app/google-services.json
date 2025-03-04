@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57346857033",
+    "project_id": "voicetwin-dc8bc",
+    "storage_bucket": "voicetwin-dc8bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57346857033:android:60b814abaa00dc65f80798",
+        "android_client_info": {
+          "package_name": "com.example.voicetwin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZZ7gbrotK4vst2dQPkQ6lnqyGeBoFNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
